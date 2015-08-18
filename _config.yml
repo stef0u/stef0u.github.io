@@ -1,19 +1,16 @@
-title:            Balzac
-tagline:          A beautiful theme.
-description:      Describe your website.
+title:            Knowheretogo
+tagline:          Simple.
+description:      A bit of anything and everything
 canonical: http://jekyll.gtat.me
 
 # Owner/author information
 owner:
-  name:           Cole Townsend
+  name:           Stephen Oung
   avatar:         avatar.png
-  bio:            "Aesthete & Athlete"
-  email:          cole@coletownsend.com
-  twitter:        twnsndco
-  github:         coletownsend
-  instagram:      ctrunsthis
-  dribbble:       coletownsend
-  disqus:         balzac
+  bio:            "A bit of everything"
+  email:          stefou.ca@gmail.com
+  github:         stef0u
+  flickr:         https://www.flickr.com/photos/stephen-oung/
   location:       "Buffalo, NY"
   # Plug in your disqus shortname!
 
@@ -24,14 +21,15 @@ tools:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About
+  - title: notes
+    url: /notes
+  - title: travel
+    url: /travel
+  - title: pictures
+    url: https://www.flickr.com/photos/stephen-oung/
+    external: true
+  - title: Who??
     url: /about
-  - title: Github
-    url: https://github.com/ColeTownsend/Balzac-for-Jekyll
-    external: true
-  - title: Cole Who?
-    url: http://coletownsend.com
-    external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York

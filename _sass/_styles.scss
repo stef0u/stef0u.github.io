@@ -191,7 +191,6 @@ header.site-header {
 }
 
 #bump .darken {
-      
       a {
       color: $black;
       @include transit(all, .2s, ease-in-out);
@@ -239,12 +238,13 @@ header.site-header hgroup {
       text-transform: uppercase;
   }
   a {
-      color: #fff;
-      @include tshd(0, 0, 10px, rgba(255,255,255,.6));
+      color: $white;
+      @include tshd(0, 0, 0, rgba(0,0,0,.6));
       @include transit(all, .2s, ease);
 
       &:hover {
-        @include tshd(0, 0, 10px, rgba(0,0,0,.6));
+        color: $black;
+        @include tshd(0, 0, 0, rgba(240,240,240,1));
         @include transit(all, .2s, ease);
       }
   }
@@ -265,11 +265,12 @@ header.site-header nav {
     position: relative;
     margin-left: 20px; 
     a {
-        color: white;
-        @include tshd(0, 0, 3px, rgba(0,0,0,.6));
+        color: $white;
+        @include tshd(0, 0, 0, rgba(0,0,0,.6));
         @include transit(all, .2s, ease);
         &:hover {
-            @include tshd(0, 0, 3px, rgba(255,255,255,.6));
+            color: $black;
+            @include tshd(0, 0, 3, rgba(240,240,240,.6));
             @include transit(all, .2s, ease);
         }
     } 

@@ -1,8 +1,14 @@
 {% if page.image.feature %}
 	{% include head.html %}
 	<section class="article">
-		<div class="overlay overlay-lighter"></div>
-		<div class="featured-image" style="background-image: url({{ site.url }}/images/{{ page.image.feature }})">
+		{% if page.image.overlay %}
+			<div class="overlay overlay-lighter"></div>
+		{% endif %}
+		{% if page.image.feature contains 'https://' | escape or page.image.feature contains 'http://' | escape %}
+			<div class="featured-image" style="background-image: url({{ page.image.feature }})">
+		{% else %}
+			<div class="featured-image" style="background-image: url({{ site.url }}/images/{{ page.image.feature }})">
+		{% endif %}
 			{% include titleDescription.html %}
 		</div>
 {% else %}

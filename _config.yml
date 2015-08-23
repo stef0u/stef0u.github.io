@@ -21,14 +21,11 @@ tools:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: notes
-    url: /notes
+  - title: Notebook
+    url: /notebook
   - title: travel
     url: /travel
-  - title: pictures
-    url: https://www.flickr.com/photos/stephen-oung/
-    external: true
-  - title: Who??
+  - title: Who am I
     url: /about
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones

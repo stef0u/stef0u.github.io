@@ -1,9 +1,11 @@
 ---
 layout: page
-title: Sample Articles
-excerpt: "An archive of articles sorted by date."
+title: Travel
+excerpt: "Trips big or small there's always a story to tell"
 search_omit: true
 ---
+
+> "The new type of artist... puts on the outfit of the bushwhacker and prospector; closes with his environment; paddles, portages and makes camp; sleeps in the out-of-doors under the stars; climbs mountains with his sketchbook on his back."  - F.B. Houser, 1926.
 
 <ul class="post-list">
 {% for post in site.categories.articles %} 

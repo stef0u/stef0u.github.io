@@ -2,10 +2,10 @@
 
 title: knowheretogo
 locale: en_US
-description: A place to write things down.
-logo: site-logo.png
+description: find something new
+logo: #site-logo.png
 search: true
-url: http://stef0u.github.io/
+url: http://stef0u.github.io
 
 # Jekyll configuration
 
@@ -46,7 +46,7 @@ owner:
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username
-  flickr: SteFou! #stefou!
+  flickr: stephen-oung #stefou!
   tumblr: #username
   pinterest: #username
   weibo: #userid

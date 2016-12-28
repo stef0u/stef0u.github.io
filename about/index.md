@@ -1,26 +1,18 @@
 ---
 layout: page
-title: About the Jekyll Theme
-excerpt: "So Simple is a responsive Jekyll theme for your words and images."
-modified: 2014-08-08T19:44:38.564948-04:00
+title: About Me
+excerpt: "Who am I?"
+modified: 2015-12-24T19:44:38.564948-04:00
 image:
-  feature: so-simple-sample-image-4.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: https://c5.staticflickr.com/6/5642/21385299668_2080d8ef7c_h.jpg
 ---
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the follow up to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes.com).
+It seems to be an anual tradition where I try to make a website that sees the light of day for part of a year, then it never gets touched again. I have good intentions, but never got in the habit of updating it regularily to make it a *thing*. And in this case, I actually found the toolset I wanted to use, but I find that the underlying tools have been upgraded, breaking my ability to update the site, so that forced me to redo my site for the 8th time ¯\\_(ツ)_/¯
 
-## So Simple Theme is all about:
+*What is this Site About?*
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations.
-* Optional large feature images for posts and pages.
-* [Custom 404 page]({{ site.url }}/404.html) to get you started.
-* [Simple site search](https://github.com/christian-fei/Simple-Jekyll-Search)
-* Support for Disqus Comments
+* **Visual Portfolio:** Art has been always been something I held close to my chest. Throughout the years, the medium has changed; currently digital photography has been the biggest player. From time to time, I freelance for individuals or small companies that do not have the budget to afford professional photographers, but still need some respectable images to bootstrap their future.
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install So Simple Theme</a>
+* **Work Portfolio:** I formally have a Masters in Biomedical Engineer, but I've managed to find my self working outside that field and in a variety of different positions; Software developer, QA lead, Systems architech, technical product manager for a werable security device. 
 
-[^1]: Example: *domain.com/category-name/post-title*
+* **Personal Portfoio:** Not really a portfolio but didn't want to break the trend. This aspect is about anything and everything about my life, but my life is pretty simple relatively speaking. Other than work, I train for endurance events, and travel whenever I can. 

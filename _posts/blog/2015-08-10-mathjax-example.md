@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "MathJax Example"
-modified:
 categories: blog
 excerpt:
 tags: []

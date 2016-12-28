@@ -1,12 +1,41 @@
 ---
-layout: page
-title: Latest Posts
-excerpt: "A simple and clean responsive Jekyll theme for words and photos."
+layout: gallery
+title: 
+excerpt: "There's never enough pictures"
 search_omit: true
 ---
 
-<ul class="post-list">
-{% for post in site.posts limit:10 %}
-  <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }}</span>{% endif %}</a></article></li>
-{% endfor %}
-</ul>
+  <div id="imageList">
+      <div class="figGallery"><a href="http://placehold.it/1200x600.jpg"><img src="https://c1.staticflickr.com/8/7590/27393391072_2bf92e48af_k.jpg"  alt="image"></a></div>
+      <div class="figGallery"><a href="http://placehold.it/1200x600.jpg"><img src="https://farm8.staticflickr.com/7434/27606772085_0afc4f246f_b.jpg" alt="image"></a></div>
+      <div class="figGallery"><a href="http://placehold.it/1200x600.jpg"><img src="https://c8.staticflickr.com/8/7367/27026492983_9d673b0816_c.jpg"  alt="image"></a></div>
+      <div class="figGallery"><a href="http://placehold.it/1200x600.jpg"><img src="https://c1.staticflickr.com/8/7590/27393391072_2bf92e48af_k.jpg"  alt="image"></a></div>
+      <div class="figGallery"><a href="http://placehold.it/1200x600.jpg"><img src="https://farm8.staticflickr.com/7434/27606772085_0afc4f246f_b.jpg" alt="image"></a></div>
+      <div class="figGallery"><a href="http://placehold.it/1200x600.jpg"><img src="https://c8.staticflickr.com/8/7367/27026492983_9d673b0816_c.jpg"  alt="image"></a></div>
+      <div class="figGallery"><a href="http://placehold.it/1200x600.jpg"><img src="https://c1.staticflickr.com/8/7590/27393391072_2bf92e48af_k.jpg"  alt="image"></a></div>
+      <div class="figGallery"><a href="http://placehold.it/1200x600.jpg"><img src="https://farm8.staticflickr.com/7434/27606772085_0afc4f246f_b.jpg" alt="image"></a></div>
+      <div class="figGallery"><a href="http://placehold.it/1200x600.jpg"><img src="https://c8.staticflickr.com/8/7367/27026492983_9d673b0816_c.jpg"  alt="image"></a></div>
+      <div class="figGallery"><a href="http://placehold.it/1200x600.jpg"><img src="https://c1.staticflickr.com/8/7590/27393391072_2bf92e48af_k.jpg"  alt="image"></a></div>
+      <div class="figGallery"><a href="http://placehold.it/1200x600.jpg"><img src="https://farm8.staticflickr.com/7434/27606772085_0afc4f246f_b.jpg" alt="image"></a></div>
+      <div class="figGallery"><a href="http://placehold.it/1200x600.jpg"><img src="https://c8.staticflickr.com/8/7367/27026492983_9d673b0816_c.jpg"  alt="image"></a></div>
+  </div>
+    <script>
+      $(function() {
+        var wall = new Freewall("#imageList");
+        wall.reset({
+          selector: '.figGallery',
+          animate: false,
+          cellH: 'auto',
+          cellW: 200,
+          delay: 50,
+          fixSize: 0,
+          gutterX: 2,
+          gutterY: 2,
+          onResize: function() {
+            wall.fitWidth();
+          }
+        });
+        wall.fitWidth();
+      });
+      </script>
+

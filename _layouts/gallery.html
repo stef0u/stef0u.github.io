@@ -5,7 +5,20 @@
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
 <head>
 {% include head.html %}
+<style type="text/css">
+    #container {
+      width: 80%;
+      margin: auto;
+    }
+    .item {
+      background: rgb(135, 199, 135);
+      width: 320px;
+      height: 320px;
+    }
+  </style>
 </head>
+<script src="{{ site.url }}/assets/js/vendor/jquery-1.9.1.min.js"></script>
+<script src="{{ site.url }}/assets/js/freewall.js"></script>
 
 <body id="page">
 
@@ -13,7 +26,6 @@
 
 <div id="main" role="main">
   <article class="entry">
-    {% if page.image.feature %}<div class="parallax" style="background-image:url('{{ page.image.feature }}')"></div>{% endif %}
     <div class="entry-wrapper">
       <header class="entry-header">
         <h1 class="entry-title">{% if page.headline %}{{ page.headline }}{% else %}{{ page.title }}{% endif %}</h1>

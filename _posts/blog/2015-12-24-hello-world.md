@@ -10,9 +10,9 @@ date: 2016-12-24T15:39:55-04:00
 modified: 2016-12-24T15:39:55-04:00
 ---
 
-New website, new year, new goals. It wasn't until mid this year that I realized that I've always made goals. It was never anything formal, but they were clear and always had a measurable result to determine if I acheived my goal. It wasn't until I was introduced to the concept of OKRs [(Objective and Key Results)](https://en.wikipedia.org/wiki/OKR) at work that I decided to formalize it by writing it down and making them public. 
+New website, new year, new goals. It wasn't until mid this year that I realized that I've always made goals. It was never anything formal, but they were clear and always had a measurable result to determine if I achieved my goal. It wasn't until I was introduced to the concept of OKRs [(Objective and Key Results)](https://en.wikipedia.org/wiki/OKR) at work that I decided to formalize it by writing it down and making them public. 
 
-The **tl;dr** of OKRs is to create a set of **objectives** with measurable ambitious **key results** that dictate its achievement; _ambitious_ being the most important aspect for me. In my mind, having an easy goal is not really a goal; it's more a _feel good_ thing. Apart from giving you more focus, goals should be abitious so that if you even do not acheive it you've made significant improvements. 
+The **tl;dr** of OKRs is to create a set of **objectives** with measurable ambitious **key results** that dictate its achievement; _ambitious_ being the most important aspect for me. In my mind, having an easy goal is not really a goal; it's more a _feel good_ thing. Apart from giving you more focus, goals should be ambitious so that if you even do not achieve it you've made significant improvements. 
 
 So that being said, these are my OKRs for 2017 and the results of my OKRs for 2016.
 
@@ -26,12 +26,12 @@ Be a better product manager
 * Operate sprint team(s) with 0 employee turnover until product release
 
 **Objective:**
-Be a better athele
+Be a better athlete
 
 * Compete in at least 4 triathlons 
 * Place Top 5 in age group in at least one triathlon
 * Hit average splits of <1:40min/100m swim, >33km/hr bike, and 4:20min/km run
-* Compete in at least 4 fun races with same ranking as previous seasons
+* Compete in at least 4 fun races with at least the same ranking as previous seasons
 
 **Objective:**
 Be a better photographer
@@ -101,4 +101,4 @@ Be a product manager
 * Bring a product to market
 
 **Results:**
-I still don't know what a product manager means; it's seems very vague and consists of a large gamut of work ranging from customer support to product requirements to development to quality control. Despite not knowing this, I managed to bring the Nymi Companion Device Application to market; I was the initial designer/programmer/tester that built the application in preparation for one of MIcrosoft's international conferences. I was able to see the product being demoed on stage by a Microsoft speaker.
+I still don't know what a product manager means; it's seems very vague and consists of a large gamut of work ranging from customer support to product requirements to development to quality control. Despite not knowing this, I managed to bring the Nymi Companion Device Application to market; I was the initial designer/programmer/tester that built the application in preparation for one of Microsoft's international conferences. I was able to see the product being demoed on stage by a Microsoft speaker.

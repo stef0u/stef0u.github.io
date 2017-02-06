@@ -2,7 +2,7 @@
 layout: page
 image:
   feature: https://c1.staticflickr.com/3/2824/9927607124_d49ff11ac5_k.jpg
-title: Travel
+title: Getting Lost
 excerpt: "Trips big or small there's always a story to tell"
 search_omit: true
 ---

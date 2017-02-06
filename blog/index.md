@@ -2,7 +2,7 @@
 layout: page
 image:
   feature: https://c2.staticflickr.com/8/7252/27507434222_31597a6c3b_k.jpg
-title: Personal
+title: Jibber Jabber
 excerpt: "An archive of blog posts sorted by date."
 search_omit: true
 ---

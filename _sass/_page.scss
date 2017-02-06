@@ -103,7 +103,8 @@ span + .entry-title {
 
 /* page/post wrapper */
 
-.entry-wrapper {
+.entry-wrapper, 
+.entry-gallery {
 	@include outer-container;
 	margin-top: 0;
 	margin-bottom: 3em;
@@ -237,6 +238,10 @@ span + .entry-title {
 
 	.entry-wrapper {
 		max-width: em(1200);
+	}
+
+	.entry-gallery {
+		max-width: em(1600);
 	}
 
 	.entry-title {

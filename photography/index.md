@@ -2,7 +2,6 @@
 layout: page
 image:
   feature: https://c3.staticflickr.com/6/5584/30535115306_56ed063a70_h.jpg
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 excerpt: "There's never enough pictures"
 modified: 2016-09-12T08:42:37-04:00
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Don't Get Lost
-excerpt: "Running through a forest"
+excerpt: "Racing in a forest with a compass and map"
 modified: 2017-02-04T14:17:25-04:00
 categories: blog
 tags: [race, adventure]

@@ -6,6 +6,8 @@ excerpt: "There's never enough pictures"
 modified: 2016-09-12T08:42:37-04:00
 ---
 
+> "our lives are meaningless perturbations in a swirling vortex of chaos and entropy"
+
 # Gear List
 
 I'm a pretty scrappy when it comes to gear. This is what I'm currently using:

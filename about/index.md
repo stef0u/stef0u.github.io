@@ -19,6 +19,8 @@ It seems to be an annual tradition where I try to make a website that sees the l
 
 * **Personal Portfoio:** Not really a portfolio but didn't want to break the trend. This aspect is about anything and everything about my life, but my life is pretty simple relatively speaking. Other than work, I train for endurance events, and travel whenever I can. 
 
+> "magic is the willingness to suspend your own critical faculties and believe the unbelievable; the willingness to sacrifice logic for the sake of enjoyment"
+
 ---
 
 # Gear List

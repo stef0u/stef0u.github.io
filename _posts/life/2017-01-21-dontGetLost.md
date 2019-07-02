@@ -3,8 +3,8 @@ layout: post
 title: Don't Get Lost
 excerpt: "Racing in a forest with a compass and map"
 modified: 2017-02-04T14:17:25-04:00
-categories: blog
-tags: [race, adventure]
+categories: life
+tags: [life, adventure]
 comments: true
 share: true
 ---

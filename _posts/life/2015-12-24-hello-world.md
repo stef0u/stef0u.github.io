@@ -2,9 +2,9 @@
 layout: post
 title: "Hello World!"
 author: stephenOung
-categories: blog
+categories: life
 excerpt: New website, new year, new goals
-tags: [blog, OKR]
+tags: [life, OKR]
 share: true
 date: 2016-12-24T15:39:55-04:00
 modified: 2016-12-24T15:39:55-04:00

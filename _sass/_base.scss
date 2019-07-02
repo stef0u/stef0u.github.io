@@ -148,12 +148,22 @@ hr {
 /*
    Figures and Images
    ========================================================================== */
-
-.figGallery {
-	max-width: 25%;
-	margin-top: 1em;
-	margin-bottom: 1em;
+.grid-sizer,
+.grid-item {
+  width: 23%;
 }
+
+.grid-item {
+  float: left;
+  margin-top: 1em;
+}
+
+.grid-item img {
+  display: block;
+  max-width: 100%;
+}
+
+/* ================================================*/
 
 figure > * { margin: 0 auto 0.55em; }
 figure {

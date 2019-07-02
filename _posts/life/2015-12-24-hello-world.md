@@ -21,7 +21,7 @@ So that being said, these are my OKRs for 2017 and the results of my OKRs for 20
 Be a better product manager
 
 * Work with partners learn their pain points and scope product requirements
-* Bring to market 2 products that addresses a known market
+* Bring to market 2 products that address a known market
 * To be able to define my product(s) with a 15s pitch
 * Operate sprint team(s) with 0 employee turnover until product release
 
@@ -37,7 +37,7 @@ Be a better athlete
 Be a better photographer
 
 * Do at least 5 jobs that could have been paid work
-* Have at least one photo published in a known media distributer
+* Have at least one photo published in a known media distributor
 
 **Objective:**
 Be a better person
@@ -54,7 +54,7 @@ Complete a trialthon
 **Key Results:**
 
 * Complete a single Olympic distance Triathlon
-* Place Top 5 in age group
+* Place Top 5 in the age group
 * Hit average splits of <2min/100m swim, >30km/hr bike, and 4:30min/km run
 
 **Results:**
@@ -76,7 +76,7 @@ Teach a Non-Swimmer to Swim
 * Have a non-swimmer be able to compete in a triathlon
 
 **Results:**
-Starting in Feburary, I trained a friend to overcome his fear of water. He started off with not being able to submerge his head under water to completing the Guelph Lake II Sprint Triathlon. His final time was: 2:05:29 with the following splits:
+Starting in February, I trained a friend to overcome his fear of water. He started off with not being able to submerge his head under water to complete the Guelph Lake II Sprint Triathlon. His final time was: 2:05:29 with the following splits:
 
 * 3:05/100m
 * 28.23km/hr
@@ -90,7 +90,7 @@ Be a Better Climber
 * Complete a V5
 
 **Results:**
-Not only did I complete a V5, I completed 2 and became comfortable projecting V4! I also redid the V5s the following week as a proof to myself that it wasn't just a fluke. That was a good day. Unfortunately now that was the end of my climbing since I've moved downtown. When I pick it up again, it will be a long journey again and I'm looking forward to it.
+Not only did I complete a V5, but I also completed 2 and became comfortable projecting V4! I also redid the V5s the following week as proof to myself that it wasn't just a fluke. That was a good day. Unfortunately now that was the end of my climbing since I've moved downtown. When I pick it up again, it will be a long journey again and I'm looking forward to it.
 
 **Objective:**
 Be a product manager
@@ -101,4 +101,4 @@ Be a product manager
 * Bring a product to market
 
 **Results:**
-I still don't know what a product manager means; it's seems very vague and consists of a large gamut of work ranging from customer support to product requirements to development to quality control. Despite not knowing this, I managed to bring the Nymi Companion Device Application to market; I was the initial designer/programmer/tester that built the application in preparation for one of Microsoft's international conferences. I was able to see the product being demoed on stage by a Microsoft speaker.
+I still don't know what a product manager means; it seems very vague and consists of a large gamut of work ranging from customer support to product requirements to development to quality control. Despite not knowing this, I managed to bring the Nymi Companion Device Application to market; I was the initial designer/programmer/tester that built the application in preparation for one of Microsoft's international conferences. I was able to see the product being demoed on stage by a Microsoft speaker.

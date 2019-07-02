@@ -1,11 +1,12 @@
 # Site wide configuration
 
-title: explore.
+title: knowhere to go
 locale: en_US
 description: Twenty years from now you will be more disappointed by the things you didn’t do than by the ones you did do - Mark Twain
 logo: #site-logo.png
 search: true
 url: http://stef0u.github.io
+absolute_url: 192.168.0.249
 
 # Jekyll configuration
 
@@ -15,7 +16,7 @@ highlighter: rouge
 sass:
   sass_dir: _sass
   style: compressed
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
@@ -39,21 +40,21 @@ owner:
   name: Stephen Oung
   avatar: bio-photo.jpg
   email: stephen.oung@gmail.com
-  disqus-shortname:
-  twitter: #username
-  facebook: #username
+  #disqus-shortname:
+  #twitter: #username
+  #facebook: #username
   github: stef0u #username
-  stackexchange: #http://stackoverflow.com/users/123456/username
+  #stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: #username
-  instagram: #username
+  #instagram: #username
   flickr: stephen-oung #stefou!
-  tumblr: #username
-  pinterest: #username
-  weibo: #userid
-  google:
-    plus: #username
-    analytics:
-    verify:
-    ad-client:
-    ad-slot:
-  bing-verify:
+  #tumblr: #username
+  #pinterest: #username
+  #weibo: #userid
+  #google:
+  #  plus: #username
+  #  analytics:
+  #  verify:
+  #  ad-client:
+  #  ad-slot:
+  #bing-verify:

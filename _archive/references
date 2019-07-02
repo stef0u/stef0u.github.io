@@ -1,0 +1,16 @@
+
+### Listing posts with specific tags
+
+{% for tag in site.tags %}
+  {% assign t = tag | first %}
+  {% assign posts = tag | last %}
+
+  <ul class="post-list">
+  {% if t contains 'travel' or t contains '' %}
+  {% for post in posts %}
+    <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }}</span>{% endif %}</a></article></li>
+  	{% endfor %}
+  {% endif %}
+  </ul>
+
+{% endfor %}

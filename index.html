@@ -5,6 +5,7 @@ excerpt: "There's never enough pictures"
 search_omit: true
 ---
 
+<!--
 <div class="grid">
   <div class="grid-sizer"></div>
   <div class="grid-item">
@@ -108,35 +109,19 @@ imagesLoaded( grid ).on( 'progress', function() {
 });
 </script>
 
-<!--
-  var wall = new Freewall("#imageList");
-  wall.reset({
-    selector: '.figGallery',
-    animate: false,
-    cellH: 'auto',
-    delay: 1,
-    fixSize: 0,
-    gutterX: 2,
-    gutterY: 2,
-    onResize: function() {
-      wall.fitWidth();
-    }
-  });
-  window.onresize = function(event){
-    wall.fitWidth();
-  }
-  window.onload = function(event){
-    console.log("finally loaded")
-    wall.fitWidth();
-  }
-  $(function() {
-    $(document).resize();
-    wall.fitWidth();
-  });
+  var grid = document.querySelector('.grid');
 
-  var $grid = $('.imageList').masonry({
-  itemSelector: '.figGallery',
-  percentPosition: true,
-  columnWidth: '.figGallery-sizer'
+var msnry = new Isotope( grid, {
+  itemSelector: '.grid-item',
+  columnWidth: '.grid-sizer',
+  masonry: {
+    columnWidth: 100
+  },
+  percentPosition: true
+});
+
+imagesLoaded( grid ).on( 'progress', function() {
+  // layout Masonry after each image loads
+  msnry.layout();
 });
   -->

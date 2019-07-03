@@ -90,14 +90,15 @@ search_omit: true
   </div>
 </div>
 
-
 <script>
 var grid = document.querySelector('.grid');
 
-var msnry = new Masonry( grid, {
+var msnry = new Isotope( grid, {
   itemSelector: '.grid-item',
   columnWidth: '.grid-sizer',
-  gutter: 10,
+  masonry: {
+    columnWidth: 100
+  },
   percentPosition: true
 });
 

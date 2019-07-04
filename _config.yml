@@ -5,7 +5,7 @@ locale: en_US
 description: Twenty years from now you will be more disappointed by the things you didn’t do than by the ones you did do - Mark Twain
 logo: #site-logo.png
 search: true
-url: http://stef0u.github.io
+url: https://stef0u.github.io
 absolute_url: 192.168.0.249
 
 # Jekyll configuration

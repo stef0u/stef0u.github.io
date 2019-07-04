@@ -26,7 +26,7 @@ search_omit: true
 <script src="{{ site.url }}/assets/js/vendor/isotope.pkgd.min.js"></script>
 <script src="{{ site.url}}/assets/js/vendor/imagesloaded.pkgd.min.js"></script>
 
-<div class="button-group filter-button-group">
+<div align="center" class="button-group filter-button-group">
   <button class="button" data-filter=".grid-item--profile">Profile</button>
   <button class="button" data-filter=".grid-item--product">Product</button>
   <button class="button" data-filter=".grid-item--event">Event</button>

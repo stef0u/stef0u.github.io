@@ -2,12 +2,11 @@
 layout: page
 image:
   feature: https://c2.staticflickr.com/8/7252/27507434222_31597a6c3b_k.jpg
-title: Thoughts among Thoughts
+title: Thoughts & Thoughts
 excerpt: "An archive of blog posts sorted by date."
+quote: 'Good decisions come from experience, but experience comes from bad decisions'
 search_omit: true
 ---
-
-> "Good decisions come from experience, but experience comes from bad decisions"
 
 <p align="center">
 	Travel

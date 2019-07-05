@@ -8,8 +8,6 @@ image:
   feature: https://c1.staticflickr.com/9/8364/8428513629_ea28a761d8_o.jpg
 ---
 
-> 
-
 It seems to be an annual tradition where I try to make a website that sees the light of day for part of a year, then it never gets touched again. I have good intentions but never got in the habit of updating it regularly to make it a *thing*. And in this case, I actually found the toolset I wanted to use, but I find that the underlying tools have been upgraded, breaking my ability to update the site, so that forced me to redo my site for the 8th time
 
 *What is this Site About?*

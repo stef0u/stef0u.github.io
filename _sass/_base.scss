@@ -177,7 +177,7 @@ hr {
   border: none;
   border-radius: 0px;
   color: $text-color;
-  font-family: sans-serif;
+  font-family: $base-font;
   font-size: 16px;
   text-shadow: 0 1px white;
   cursor: pointer;
@@ -192,6 +192,8 @@ hr {
 .button:active,
 .button.is-checked {
   background-color: $text-highlight-color;
+  text-shadow: 0 -1px hsla(0, 0%, 0%, 0.8);
+  color: white;
 }
 
 .button.is-checked {

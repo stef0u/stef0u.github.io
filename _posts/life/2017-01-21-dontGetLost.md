@@ -43,7 +43,7 @@ This race kind of opened up a new series of races aptly named [Adventure Racing 
 
 <figure>
     <a href="/images/dontGetLostEnd.jpg"><img src="/images/dontGetLostEnd.jpg" alt="image"></a>
-    <figcaption>Finishing Ppcture</figcaption>
+    <figcaption>Finishing Picture</figcaption>
 </figure>
 
 <figure>

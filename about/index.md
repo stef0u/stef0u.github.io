@@ -1,6 +1,6 @@
 ---
 layout: page
-title: this->info()
+title: this.info( )
 excerpt: "Who am I?"
 quote: 'An engineer is someone who does precision guesswork based on unreliable data provided by those of questionable knowledge.'
 modified: 2015-12-24T19:44:38.564948-04:00

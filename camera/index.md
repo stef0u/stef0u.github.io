@@ -1,10 +1,9 @@
 ---
 layout: page
 image:
-  feature: https://live.staticflickr.com/65535/47948183198_f555d8c854_k.jpg
+  feature: https://live.staticflickr.com/65535/48912147951_5460545021_k.jpg
 title: Life with a Camera
 excerpt: "Trips big or small there's always a story to tell"
-quote: '"The new type of artist... puts on the outfit of the bushwhacker and prospector; closes with his environment; paddles, portages and makes camp; sleeps in the out-of-doors under the stars; climbs mountains with his sketchbook on his back."  - F.B. Houser, 1926'
 search_omit: true
 ---
 

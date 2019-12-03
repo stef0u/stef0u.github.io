@@ -1,7 +1,7 @@
 ---
 layout: page
 image:
-  feature: https://live.staticflickr.com/7814/31562687877_2078f43cfa_k.jpg
+  feature: https://live.staticflickr.com/805/26193478327_ea57afff70_k.jpg
 title: Thoughts
 excerpt: "An archive of blog posts sorted by date."
 quote: 'Good decisions come from experience, but experience comes from bad decisions'

@@ -2,12 +2,11 @@
 layout: post
 title: Pastry Creme
 excerpt: Gordon Ramsay's recipe
-modified: 2019-12-02
 categories: food
 tags: [food]
 comments: false
 share: true
-date: 2019-12-02T15:39:55-04:00
+date: 2019-12-02
 ---
 
 | Ingredients | | Quantity |

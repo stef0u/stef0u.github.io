@@ -2,13 +2,13 @@
 layout: page
 image:
   feature: https://live.staticflickr.com/65535/48912147951_5460545021_k.jpg
-title: Life with a Camera
+title: Wandering Camera
 excerpt: "Trips big or small there's always a story to tell"
 search_omit: true
 ---
 
 <p align="center" style="margin: 0">
-	I am pretty simple when it comes to gear. I do not a believer that equipment is everything. So I pick up the cheapest thing I can when I can, and make do. This is what I'm currently using:
+	I am pretty lean when it comes to equipment. I tend to be on the go a lot, so I learned to pack light. This is my collection so far:
 </p>
 
 |||
@@ -17,6 +17,7 @@ search_omit: true
 | Nikkor 17-55mm f/2.8 - | - Nikkor 70-200mm f/4 |
 | Lensbaby 55mm - | - Nikkor 50mm f/1.8 |
 | Yongnuo YN560-III - | - Yongnuo YN560-IV |
+| Litra Torch 2.0 | 
 
 ---
 

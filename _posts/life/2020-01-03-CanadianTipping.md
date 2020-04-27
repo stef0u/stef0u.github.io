@@ -2,8 +2,8 @@
 layout: post
 title: Tipping in Canada
 excerpt: When Etiquitte becomes expectation
-categories: food
-tags: [food]
+categories: misc
+tags: [misc]
 comments: false
 share: true
 date: 2020-01-03

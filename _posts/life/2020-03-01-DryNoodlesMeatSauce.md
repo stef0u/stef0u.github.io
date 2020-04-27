@@ -37,4 +37,4 @@ Sauce mixture
 - Fry the ground meat
 - While frying, add the 5-spice a tablespoon of the sauce mixture to season the meat while cooking
 - Add in the remaining sauce mixture when the meat is cook
-- Some starch can be added to ticken the sauce (~2 teaspoon)
+- Some starch can be added to thicken the sauce (~2 teaspoon)
